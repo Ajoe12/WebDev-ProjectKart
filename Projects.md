@@ -14,4 +14,5 @@
   [Vat Calculaotr](https://khushi-purwar.github.io/WebDev-ProjectKart/VAT%20Calculator/) | This calculator calculates the Value Added Tax (VAT) on products or services.
   [Weather Application](https://khushi-purwar.github.io/WebDev-ProjectKart/Weather%20Application/) | A simple API enabled website build using HTML, CSS & JavaScript.
   
+  [Google Keep Notes App](https://ajoe12.github.io/Google-Keep-Clone/) | A simple app to keep your notes build using HTML, CSS, JavaScript & Reactjs
                           

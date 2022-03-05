@@ -1,13 +1,24 @@
-Google-Keep-Notes-Clone
+# Google-Keep-Notes-Clone
 
-# About the project
+## About The Project
 It is a simple google keep clone made with reactjs.
+<br>
 Basically you can create and delete notes as per required
+<hr>
 
-# Running the project
-Install Nodejs in the system and type npm init in the terminal to start working on the project
-Recommended IDE - Visual Studio Code
+## Tech Stacks Used
+HTML
+<br>
+CSS
+<br>
+ReactJS
+<hr>
 
-# Working link of the project
-Please feel free to visit the hosted webpage on github:
+## Screenshots
+
+<img src="./assets/output_pic.png" />
+<hr>
+
+## Try the website right now!
+
 https://ajoe12.github.io/Google-Keep-Clone/
